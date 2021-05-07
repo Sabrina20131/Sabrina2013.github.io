@@ -1,0 +1,106 @@
+body{background-color: blanchedalmond;
+    background-image: url(https://insightsfromtom.files.wordpress.com/2018/10/autumn-road.jpg);
+   margin: auto;
+   
+}
+header{background-color: blue;
+padding: 40px 20px;
+text-align: center;
+width: 700px;
+margin-right: auto;
+margin-left: auto;
+font-size: 20px;
+}
+nav{background-color: blueviolet;
+padding: 20px 20px;
+text-align: center;
+width: 700px;
+margin-right: auto;
+margin-left: auto;
+}
+main{
+width: 740px;
+margin-right: auto;
+margin-left: auto;
+
+}
+section
+{background-color: rgb(20, 220, 70);
+    
+padding: 30px 20px ;
+text-align: center;
+width: 500px;
+height: 300px;
+float: left 
+
+}
+article
+{background-color: yellow;
+    padding: 50px 20px;
+text-align: center;
+width: 500px;
+height: 150px;
+color: teal;
+float: left;
+
+}
+aside
+{text-align: center;
+background-color: violet;
+color: white;
+height: 600px;
+}
+footer{background-color: skyblue;
+color: white;
+padding: 40px 20px ;
+text-align: center;
+width: 700px;
+height: 10px;
+margin-right: auto;
+margin-left: auto;
+float: unset;
+}
+ul{ text-align: center;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #253aaf;
+    position: sticky;
+    overflow: hidden;
+    color:whitesmoke
+    
+}
+li{
+    float: left;
+    
+}
+li a{color: blue;
+text-align: center;
+padding: 15px 15px;
+display: block;
+color: yellowgreen;
+text-decoration: none;
+
+}
+li a{display: block;
+color: black;
+text-align: center;
+padding: 15px 20px ;
+text-decoration: none;
+
+}
+Li a:hover{
+    color: cyan;
+}
+
+
+
+
+    
+
+
+
+
+
+
