@@ -2,9 +2,10 @@ body{
     background-color: blanchedalmond;
     background-image: url("https://primosmex.com/wp-content/uploads/2016/09/PMX-Food-Collage-1024x768.jpg");
    margin: auto;
+   background-size:cover;
 }
 header{
-background-color: blue;
+background-color: burlywood;
 padding: 40px 20px;
 text-align: center;
 width: 700px;
@@ -12,6 +13,7 @@ margin-right: auto;
 margin-left:auto;
 font-size: 20px;
 margin-bottom: 20px;
+
 }
 main{
 width: 740px;
@@ -19,7 +21,7 @@ margin-right: auto;
 margin-left: auto;
 }
 section{
-background-color: rgb(20, 220, 70);
+background-color: khaki;
 padding: 30px 20px ;
 text-align: center;
 width: 500px;
@@ -27,22 +29,22 @@ height: 300px;
 float: left;
 }
 article{
-background-color: yellow;
- padding: 50px 20px;
+background-color: indianred;
+ padding: 45px 20px;
 text-align: center;
 width: 500px;
 height: 150px;
-color: teal;
+color: seashell;
 float: left;
 }
 aside{
 text-align: center;
-background-color: violet;
-color: white;
+background-color: khaki;
+color: rgb(44, 28, 7);
 height: 600px;
 }
 footer{
-background-color: skyblue;
+background-color: khaki;
 color: white;
 padding: 40px 20px ;
 text-align: center;
@@ -51,16 +53,15 @@ height: 10px;
 margin-right: auto;
 margin-left: auto;
 float: unset;
+padding-bottom: 35px;
 }
 ul{ text-align: center;
     top: 0;
     margin: 0;
     padding: 0;
     list-style: none;
-    background-color:greenyellow
-    position: sticky;
-    overflow: hidden;
-    color:whitesmoke;   
+  background-color:gray
+    
 }
 li{
     float: left;
@@ -84,11 +85,23 @@ Li a:hover{
 }
 .food{
     float:none;
+    padding-bottom: 20px;
 }
 h2{
     color: antiquewhite;
     margin-left: 20px;
+    background-color: grey;
+    padding-bottom: 25px;
+margin-left: -10px;
 }
+.drinks{ 
+    float: none;
+    background-color: grey;
+    padding-bottom: 70px
+
+}
+     
+
 
 
 
